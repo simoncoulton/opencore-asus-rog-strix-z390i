@@ -863,7 +863,7 @@
 				Rg==
 				</data>
 				<key>boot-args</key>
-				<string>-v debug=0x100 keepsyms=1 agdpmod=pikera</string>
+				<string>-v debug=0x100 keepsyms=1 agdpmod=pikera alcid=1</string>
 				<key>csr-active-config</key>
 				<data>
 				AwAAAA==
