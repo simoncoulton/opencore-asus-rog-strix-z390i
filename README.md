@@ -1,4 +1,4 @@
-# OpenCore Hackintosh
+# OpenCore Bootloader Hackintosh
 
 ![Neofetch](neofetch.png)
 
