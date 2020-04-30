@@ -375,6 +375,12 @@
 			<true/>
 			<key>SignalAppleOS</key>
 			<false/>
+			<key>RebuildAppleMemoryMap</key>
+			<false/>
+			<key>ProtectMemoryRegions</key>
+			<false/>
+			<key>ProtectUefiServices</key>
+			<true/>
 		</dict>
 	</dict>
 	<key>DeviceProperties</key>
